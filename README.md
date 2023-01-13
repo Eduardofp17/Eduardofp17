@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/Eduardofp17">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickst?username=Eduardofp17&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardofp17&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardofp17)](https://github.com/anuraghazra/github-readme-stats)
