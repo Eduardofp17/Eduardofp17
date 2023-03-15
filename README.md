@@ -1,5 +1,7 @@
 ### Hi there 👋 
 <img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=Eduardofp17&label=&style=flat-square&color=blueviolet" />
+<br />
+<br />
 <!--
 **Eduardofp17/Eduardofp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
