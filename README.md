@@ -10,5 +10,5 @@
   </div>
 
 <div align="center" >
-    (https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
+   ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 </div>
