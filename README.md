@@ -12,3 +12,4 @@
 <div align="center" >
    ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 </div>
+![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
