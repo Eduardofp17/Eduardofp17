@@ -10,6 +10,6 @@
   </div>
 
 <div align="center" >
-   ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
+  ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
+ ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 </div>
-![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
