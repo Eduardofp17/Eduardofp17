@@ -1,16 +1,15 @@
-### Hi there 👋 
+### 👋 Hey there, I'm Eduardo!
 
-<!--
-**Eduardofp17/Eduardofp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🚀 Aspiring 17-year-old Full Stack Developer with a passion for crafting digital experiences.
 
-<div align ="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduardofp17&show_icons=true&theme=dark"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardofp17&layout=compact&theme=dark"/>
-  </div>
-  
-  <br />
-  <br />
+🌐 Proficient in JavaScript, React, Node.js, and more. I thrive on turning ideas into reality.
+
+💡 Eager to collaborate on innovative projects and learn from the best in the tech community.
+
+👨‍💻 Let's connect, explore ideas, and create something amazing together! 
+
+<br>
+<br>
 <div align="center" style="background-color:red">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
