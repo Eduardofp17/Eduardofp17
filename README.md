@@ -1,8 +1,8 @@
 ### 👋 Hey there, I'm Eduardo!
 
-🚀 Aspiring 17-year-old Full Stack Developer with a passion for crafting digital experiences.
+🚀 Aspiring 18-year-old Full Stack Developer with a passion for crafting digital experiences.
 
-🌐 Proficient in JavaScript, React, Node.js, and more. I thrive on turning ideas into reality.
+🌐 Proficient in JavaScript, React, Typescript, Node.js, and more. I thrive on turning ideas into reality.
 
 💡 Eager to collaborate on innovative projects and learn from the best in the tech community.
 
