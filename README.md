@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Eduardo Pinheiro, a  FullStack Developer from Brazil<br><br>- 🔭 I’m working as Jr. Backend Developer<br>- 📚 I'm currently learning Microservices, Scalable Systems<br>- ⚡ In my free time I like to do competitive programming</p>
+<p align="left">I'm Eduardo Pinheiro, a  FullStack Developer from Brazil<br><br>- 🔭 I’m working as Jr. Backend Developer<br>- 📚 I'm currently learning Microservices, Scalable Systems<br>- ⚡ In my free time I like to do competitive programming<br>- 💚 Currently building your favorite EdTech</p>
 
 ###
 
